@@ -1,0 +1,62 @@
+String Programs 
+
+Question 1
+
+WAP to input a name and perform the following tasks
+Task 1 : Check if the input name is of three words only
+Perform task 2 and task 3 only if task 1 contains three words
+else quit the program
+Task 2 : Print all the words in the name containing more than 3 vowels
+Task 3 : Convert each word in the following manner (case wise)
+	 sample input : mohandas karamchand gandhi
+	 samaple output MoHaNdAs KaRaMcHaNd GaNdHi
+
+Perform the tasks in 3 different functions 
+
+Question 2
+
+WAP to input a sentence and create a new sentence by exchanging the positions of largest and smallest word , leave out single character word.
+Sample input  : we all are temporary entity on this earth
+Sample output : we all are on entity temporary this earth
+
+Question 3
+
+WAP to input a sentence and arrange the words in lexographical manner
+Sample input : all that glitters is not gold
+Sample output : all glitters gold is not that
+
+Perform the above task taking two different considerations
+consideration 1 : Assume the input contains single space between the words
+consideration 2 : Assume the input contains multiple spaces between the words
+
+Question 4
+
+WAP to input a sentence and print the words in reverse order
+Sample input : Delhi is the capital of India
+Sample output : India of capital the is Delhi
+
+Question 5 - Important
+
+WAP to input a sentence and encode the characters with the encode value of ev
+Assume that the sentence contains spaces and alplhabetical only.
+
+Sample input sentence : ABCDE XYZ ABDE
+ev value = 2
+Sample output sentence :CDEFG ZAB CDFG
+
+Perform the task assuming two different assumptions
+Assumption 1 : ev value is in between 1 and 26 (both inclusive)
+Assumption 2 : ev value is less than 1 or greater than 26
+
+
+
+
+
+
+
+
+
+
+
+
+
