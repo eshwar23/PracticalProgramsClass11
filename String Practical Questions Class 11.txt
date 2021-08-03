@@ -47,16 +47,3 @@ Sample output sentence :CDEFG ZAB CDFG
 Perform the task assuming two different assumptions
 Assumption 1 : ev value is in between 1 and 26 (both inclusive)
 Assumption 2 : ev value is less than 1 or greater than 26
-
-
-
-
-
-
-
-
-
-
-
-
-
